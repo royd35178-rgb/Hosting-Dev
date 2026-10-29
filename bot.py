@@ -8,7 +8,7 @@ import json
 import time
 
 # ----------------- ENVIRONMENT VARIABLES -----------------
-BOT_TOKEN = os.getenv("9217817250:AAEZaedQcLCbHO3-9EkeXkcPDAEfOxsbXsk")
+BOT_TOKEN = os.getenv("8753988536:AAFqCTHo9_VHlEFJNaGMKodj5djOgRI0yfY")
 OWNER_ID_ENV = os.getenv("5317760916")
 
 if not BOT_TOKEN:
